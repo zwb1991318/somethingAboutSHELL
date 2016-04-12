@@ -1,0 +1,2 @@
+# somethingAboutSHELL
+该目录下都是一些shell小工具或者小代码
