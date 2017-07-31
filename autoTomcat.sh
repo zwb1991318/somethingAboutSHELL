@@ -1,7 +1,7 @@
 #!/bin/sh
 mkdir logs
 echo $$>autoRunTomcat.pid
-
+#test
 dos2unix ../webapps/WebReport/WEB-INF/deploy/deploy-frame.properties
 exec 6< ../webapps/WebReport/WEB-INF/deploy/deploy-frame.properties
 while read -u 6 myline  
